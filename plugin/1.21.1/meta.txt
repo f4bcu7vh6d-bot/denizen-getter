@@ -1,2 +1,2 @@
 version=1.21.1
-file=denizen.jar
+file=plugin/1.17_26.2/denizen.jar
