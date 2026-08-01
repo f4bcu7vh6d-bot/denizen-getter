@@ -1,3 +1,2 @@
 version=26.2
-jar=plugin/26.2/denizen.jar
-plugin=plugin/1.17_26.2/denizen.jar
+file=plugin/1.17_26.2/denizen.jar
